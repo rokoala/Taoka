@@ -1,0 +1,19 @@
+{
+  "name": "taoka",
+  "version": "1.0.0",
+  "description": "Middleware that connect do express app and creates default routes and mongoose schema",
+  "main": "Taoka.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokoga/Taoka.git"
+  },
+  "author": "Rokoala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rokoga/Taoka/issues"
+  },
+  "homepage": "https://github.com/rokoga/Taoka#readme"
+}
